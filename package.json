@@ -1,5 +1,5 @@
 {
-  "name": "brush-powershell",
+  "name": "@alexgorbatchev/brush-powershell",
   "version": "4.0.0",
   "description": "powershell brush module for SyntaxHighlighter.",
   "keywords": [
